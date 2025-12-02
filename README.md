@@ -80,7 +80,7 @@ High-quality, 24kHz text-to-speech generation.
 *   **Output:** Standard ComfyUI Audio format.
 
 ### 4. Google Veo (Video)
-**⚠️ Requirements:** Requires a paid **Google AI Pro** or **Google AI Ultra** subscription.
+**⚠️ Requirements:** Requires a paid **Google API** subscription.
 *   **Features:**
     *   **Text-to-Video:** Cinematic generation.
     *   **Image-to-Video:** Connect `start_image` to animate a static picture.
